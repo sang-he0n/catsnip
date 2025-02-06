@@ -39,7 +39,7 @@ Since `catsnip` is not listed on CRAN, so use `install_github()`
 function.
 
 ``` r
-devtools::install_github(repo="csh01470/catsnip")
+devtools::install_github(repo="sang-he0n/catsnip")
 ```
 
 You can also install `catboost` released version with,
